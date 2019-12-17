@@ -24,6 +24,8 @@ npm run dev
 ```
 
 访问：http://localhost:3000/
+
+
 ![404页面](./404.png)
 
 
@@ -46,4 +48,7 @@ export default class Index extends React.Component {
     }
 }
 ```
+
+
 ![index页面](./index.png)
+
