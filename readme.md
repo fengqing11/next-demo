@@ -46,4 +46,4 @@ export default class Index extends React.Component {
     }
 }
 ```
-![404页面](./index.png)
+![index页面](./index.png)
